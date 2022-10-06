@@ -1,5 +1,5 @@
 {
-  "homepage": "https://testnet-slicescan.io",
+  "homepage": "https://slicescan.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
